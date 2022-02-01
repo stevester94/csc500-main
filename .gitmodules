@@ -1,0 +1,6 @@
+[submodule "csc500-utils"]
+	path = csc500-utils
+	url = https://github.com/stevester94/csc500-utils.git
+[submodule "csc500-models"]
+	path = csc500-models
+	url = https://github.com/stevester94/csc500-models.git
