@@ -4,3 +4,6 @@
 [submodule "csc500-models"]
 	path = csc500-models
 	url = https://github.com/stevester94/csc500-models.git
+[submodule "csc500-dataset-preprocessor"]
+	path = csc500-dataset-preprocessor
+	url = https://github.com/stevester94/csc500-dataset-preprocessor.git
