@@ -7,3 +7,6 @@
 [submodule "csc500-dataset-preprocessor"]
 	path = csc500-dataset-preprocessor
 	url = https://github.com/stevester94/csc500-dataset-preprocessor.git
+[submodule "csc500-notebooks"]
+	path = csc500-notebooks
+	url = https://github.com/stevester94/csc500-notebooks.git
